@@ -1,10 +1,10 @@
 {
   "name": "@chainat/nice-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
-    "url": ""
+    "url": "https://github.com/chainat/nice-log.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

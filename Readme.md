@@ -21,3 +21,12 @@ Usage:
   # kubernetes
   kubectl logs -f {pod-name} | nice-log
 ```
+
+
+Screenshots:
+
+Original Kubernetes's Log
+![Original Log](./samples/original_logs.jpg)
+
+With nice-log
+![Formatted Log](./samples/formatted_logs.jpg)
