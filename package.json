@@ -1,0 +1,24 @@
+{
+  "name": "nice-log",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "./node_modules/.bin/eslint ."
+  },
+  "keywords": [],
+  "author": "Chainat Wongtapan <chainat@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "nice-log": "./bin/cli.js"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-imperative-es6": "^2.1.0"
+  },
+  "dependencies": {}
+}
