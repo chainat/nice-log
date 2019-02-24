@@ -6,7 +6,7 @@ Also, if you use `logs -f`, sometime you can get lost in a pile of log messages.
 
 Install:
 ```
-  npm install -g nice-log
+  npm install -g @chainat/nice-log
 ```
 
 Usage:
